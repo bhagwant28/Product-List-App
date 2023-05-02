@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1D7557A0-8A41-4B2A-9BEC-19F6F637D11C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3C0BB25-F209-4B6C-9E4C-1773C19AA2CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoListApp/ProductListRow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DD5ED1F-34C3-49B7-9142-51FB7B6BCA54"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoListApp/ProductListModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "ListModel"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03E6A4C7-DC20-48F7-8D1A-320AD8CD6FF3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoListApp/ProductList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "587750C6-6092-40EB-8769-6C11965461C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoListApp/ProductList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "587750C6-6092-40EB-8769-6C11965461C8 - b619685cd3dbbab3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;DemoListApp.Product&gt;, Swift.Optional&lt;Swift.String&gt;, SwiftUI.NavigationLink&lt;DemoListApp.ProductListRow, DemoListApp.DetailView&gt;&gt; in DemoListApp.ProductList.body.getter : some"
+                  moduleName = "DemoListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishaldarda/Documents/Mayur/DemoListApp/DemoListApp/ProductList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "153">
+               </Location>
+               <Location
+                  uuid = "587750C6-6092-40EB-8769-6C11965461C8 - 261f59a459500e75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (DemoListApp.Product) -&gt; SwiftUI.NavigationLink&lt;DemoListApp.ProductListRow, DemoListApp.DetailView&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;DemoListApp.Product&gt;, Swift.Optional&lt;Swift.String&gt;, SwiftUI.NavigationLink&lt;DemoListApp.ProductListRow, DemoListApp.DetailView&gt;&gt; in DemoListApp.ProductList.body.getter : some"
+                  moduleName = "DemoListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishaldarda/Documents/Mayur/DemoListApp/DemoListApp/ProductList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "246">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01ACE3D2-728A-4A50-88CA-FC919CDAD218"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoListApp/ProductRowViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init(product:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "01ACE3D2-728A-4A50-88CA-FC919CDAD218 - a274f109bc9add11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoListApp.ProductRowViewModel.init(product: DemoListApp.Product) -&gt; DemoListApp.ProductRowViewModel"
+                  moduleName = "DemoListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishaldarda/Documents/Mayur/DemoListApp/DemoListApp/ProductRowViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "901">
+               </Location>
+               <Location
+                  uuid = "01ACE3D2-728A-4A50-88CA-FC919CDAD218 - a274f109bc9add11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoListApp.ProductRowViewModel.init(product: DemoListApp.Product) -&gt; DemoListApp.ProductRowViewModel"
+                  moduleName = "DemoListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishaldarda/Documents/Mayur/DemoListApp/DemoListApp/ProductRowViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1005">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BC1EC61-A031-40CE-9DBE-E0886CA84EC9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoListApp/DetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
